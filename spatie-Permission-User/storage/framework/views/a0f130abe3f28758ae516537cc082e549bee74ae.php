@@ -1,0 +1,1 @@
+<?php /**PATH E:\xampp_workspace\htdocs\spatie-Permission-User\resources\views/layouts/footer.blade.php ENDPATH**/ ?>
